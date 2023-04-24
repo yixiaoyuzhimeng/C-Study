@@ -1,0 +1,6 @@
+D:\mario\1\Debug\1.exe
+D:\mario\1\Debug\1.pdb
+D:\mario\1（VS2019）\Debug\1.exe
+D:\mario\1（VS2019）\Debug\1.pdb
+D:\class in\软件编程\c\xia\任务\期末作业\201910414127_于肖依：超级玛丽\程序\mario\mario\1（VS2019）\Debug\1.exe
+D:\class in\软件编程\c\xia\任务\期末作业\201910414127_于肖依：超级玛丽\程序\mario\mario\1（VS2019）\Debug\1.pdb
